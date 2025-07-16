@@ -1,3 +1,4 @@
+
 [Ll]ibrary/
 [Tt]emp/
 [Oo]bj/
@@ -5,39 +6,31 @@
 [Bb]uilds/
 [Ll]ogs/
 [Mm]emoryCaptures/
+UserSettings/
 
-# VS / JetBrains
-.vscode/
-*.csproj
-*.sln
-*.user
-.idea/
-
-# OS / system
+# OS generated files
 .DS_Store
-[Ll]ibrary/
-[Tt]emp/
-[Oo]bj/
-[Bb]uild/
-[Bb]uilds/
-[Ll]ogs/
-[Uu]ser[Ss]ettings/
-MemoryCaptures/
-.vs/
+*.swp
+
+# Visual Studio / JetBrains
 .vscode/
-.idea/
 *.csproj
-*.unityproj
 *.sln
-*.suo
-*.tmp
 *.user
-*.userprefs
-*.pidb
-*.booproj
-*.svd
-*.pdb
-*.mdb
-*.opendb
-*.VC.db
-*.DS_Store
+*.unityproj
+.idea/
+
+# Crashlytics generated files
+crashlytics-build.properties
+
+# Uncomment this line if you wish to ignore the asset store tools plugin
+# Assets/AssetStoreTools*
+
+# TextMesh Pro
+Assets/TextMesh Pro/
+
+# Auto-generated VS Code settings folder
+.vscode/
+
+# Ignore .gitignore if mistakenly committed as RTF or wrong format
+*.gitignore.rtf

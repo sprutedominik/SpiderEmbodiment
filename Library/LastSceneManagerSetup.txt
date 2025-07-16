@@ -1,5 +1,0 @@
-sceneSetups:
-- path: Assets/Scenes SPIDEREMB_/1 lab MainScene Base (Ursprungsscene).unity
-  isLoaded: 1
-  isActive: 1
-  isSubScene: 0

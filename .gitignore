@@ -1,36 +1,60 @@
-
+# Unity
 [Ll]ibrary/
 [Tt]emp/
 [Oo]bj/
 [Bb]uild/
 [Bb]uilds/
 [Ll]ogs/
-[Mm]emoryCaptures/
-UserSettings/
+[Uu]ser[Ss]ettings/
+MemoryCaptures/
 
-# OS generated files
-.DS_Store
-*.swp
-
-# Visual Studio / JetBrains
+# IDE / Editor
 .vscode/
+.idea/
 *.csproj
 *.sln
 *.user
-*.unityproj
-.idea/
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
 
-# Crashlytics generated files
-crashlytics-build.properties
+# OS / misc
+.DS_Store
 
-# Uncomment this line if you wish to ignore the asset store tools plugin
-# Assets/AssetStoreTools*
+# Builds / binaries
+*.apk
+*.aab
+TempAssembly.dll
+SpiderEmbodiment_BurstDebugInformation_DoNotShip/
 
-# TextMesh Pro
-Assets/TextMesh Pro/
+# crash dumps
+mono_crash*.json
+mono_crash*.blob
 
-# Auto-generated VS Code settings folder
-.vscode/
+# Notebooks / python junk
+.ipynb_checkpoints/
+*.ipynb
+__pycache__/
+*.pyc
+*.save
 
-# Ignore .gitignore if mistakenly committed as RTF or wrong format
-*.gitignore.rtf
+# Local outputs / artifacts
+plots/
+results/
+data/
+
+# Screenshots / exports
+30.07.Screenshots/
+
+# misc local temp
+.utmp/
+.virtual_documents/
+.gitignore.bak
+
+# local screenshots / docs in root
+*.png
+*.pdf
+dupes_list.txt

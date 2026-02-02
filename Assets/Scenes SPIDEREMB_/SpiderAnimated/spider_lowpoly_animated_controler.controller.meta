@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 66a85fa8a4c214644bcb332fa2e58dea
+timeCreated: 1534618322
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 126240
+  packageName: Untitled
+  packageVersion: 1.0
+  assetPath: Assets/SpiderAnimated/spider_lowpoly_animated_controler.controller
+  uploadId: 261854

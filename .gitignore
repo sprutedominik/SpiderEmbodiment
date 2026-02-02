@@ -59,3 +59,4 @@ data/
 *.pdf
 dupes_list.txt
 .gitignore.bak
+clean_burst.sh

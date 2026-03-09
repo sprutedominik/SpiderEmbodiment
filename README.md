@@ -30,8 +30,10 @@ The system is designed to be modular and extensible, allowing future integration
 - Custom scripts for movement, embodiment logic, and data logging  
 
 ## Status
-⚠️ **Work in progress**  
-This project is under active development as part of an academic research project. Code structure, assets, and experimental scenes may change.
+This project was developed as part of an academic research project investigating embodiment and emotional responses in virtual reality.  
+The experimental paradigm and VR environment have been implemented, but the project remains under active development as data analysis and manuscript preparation are ongoing. 
+
+The code structure, assets, and experimental scenes may therefore continue to evolve while the research is prepared for publication.
 
 ## Intended Use
 - Academic research in VR, HCI, and cognitive science  
